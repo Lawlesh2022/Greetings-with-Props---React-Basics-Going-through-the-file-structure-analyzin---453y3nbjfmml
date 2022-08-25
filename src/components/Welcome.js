@@ -1,5 +1,5 @@
 import React from 'react'
-const Welcome = ()=>{
+const Welcome = (prop)=>{
   return(
     <div>
     <h1>"Hey !" </h1>
